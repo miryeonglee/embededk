@@ -15,7 +15,6 @@ public class Variable2 {
 	
 	int nsi = 2 ;
 	
-	
 	// static member method
 	public static void main(String[] args) {
 	
@@ -25,6 +24,9 @@ public class Variable2 {
 		System.out.println(v2_2.si);
 		
 	// static 변수는 메모리에 한번만 만들어 지고 모든 객체들이 값을 고유함
+		
+		
+		
 		
 		v2_1.si = 2;
 		System.out.println(v2_1.si);

@@ -23,6 +23,8 @@ public class Wrapper {
 		Character wc = new Character(c);
 		Boolean wbool = new Boolean(bool);
 		
+		
+		
 		// Unwrapping : 참조타입이 가지고 있는 기본타입의 값을 꺼내는 것 = Unboxing
 		System.out.println(wb.byteValue());
 		System.out.println(ws.shortValue());
